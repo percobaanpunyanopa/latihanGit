@@ -1,0 +1,2 @@
+Branch 1
+Hai ini adalah file pertama di branch 1
